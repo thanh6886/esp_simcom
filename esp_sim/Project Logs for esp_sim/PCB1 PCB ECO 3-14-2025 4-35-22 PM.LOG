@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetC?_2 Pin=U?-1
+Removed Pin From Net: NetName=NetR?_1 Pin=U?-4
+Removed Pin From Net: NetName=GND Pin=U?-6
+Added Component: Designator=LCD?(LCD TFT 3.2")
+Added Pin To Net: NetName=NetR?_1 Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-6
+Added Pin To Net: NetName=GND Pin=U?-6
+Added Pin To Net: NetName=+12V Pin=U?-7
+Added Pin To Net: NetName=+12V Pin=U?-7
+Added Pin To Net: NetName=NetC?_1 Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=NetC?_2 Pin=Y?-2
+Added Member To Class: ClassName=Sheet1 Member=Component * SIM760x
+Added Member To Class: ClassName=Sheet1 Member=Component J? USB
+Added Member To Class: ClassName=Sheet1 Member=Component J? TYPE-C-31-M-12
+Added Member To Class: ClassName=Sheet1 Member=Component JP? JP 2x3 2.54
+Added Member To Class: ClassName=Sheet1 Member=Component LCD? LCD TFT 3.2"
+Added Member To Class: ClassName=Sheet1 Member=Component U? MAX3232
+Added Member To Class: ClassName=Sheet1 Member=Component U? ESP32-S3-WROOM-1-N4
+Added Member To Class: ClassName=Sheet1 Member=Component u? tps5430-DIS
+Added Member To Class: ClassName=Sheet1 Member=Component U? STM32F103C8T6-LQFP48

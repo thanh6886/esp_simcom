@@ -1,0 +1,137 @@
+Added Component: Designator=F?(Cau chi tu phuc hoi 2A 24V SMD1812)
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH010033"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "C?u Chì T? Ph?c H?i 2A 24V SMD1812"; VariantName = "[No Variations]"
+Added Component: Designator=H?(XH2.54M-3)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001292"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 3P XH2.54-3P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Component: Designator=J?(USB1030-GF-P-B-B)
+Add component (AddParameter): Name = "Manufacturer"; Value = "GCT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "USB1030-GF-P-B-B"; VariantName = "[No Variations]"
+Added Component: Designator=J?(TYPE-C-31-M-12)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Koren Hroparts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TYPE-C-31-M-12"; VariantName = "[No Variations]"
+Added Component: Designator=J?(78646-3001)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "78646-3001"; VariantName = "[No Variations]"
+Added Component: Designator=JP?(JP 2x3 DT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002686"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðôi Ð?c 2.54MM 2x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Component: Designator=JP?(JP 1x4 DT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Ð?c 2.54MM 1x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Component: Designator=SW?(DTSM-3)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diptronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "DTSM-3"; VariantName = "[No Variations]"
+Added Component: Designator=U?(ESP32-S3-WROOM-1)
+Add component (AddParameter): Name = "Distributor Link"; Value = "https://www.mouser.de/ProductDetail/Espressif-Systems/ESP32-S3-WROOM-1-N4?qs=Li%252BoUPsLEnsO%2FkiJOUK0FQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Espressif"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ESP32-S3-WROOM-1-N4"; VariantName = "[No Variations]"
+Added Component: Designator=U?(TSSOP 16PIN)
+Added Component: Designator=Y?(Thach Anh 2 chan SMD)
+Add component (AddParameter): Name = "Value"; Value = "4Mhz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=JP?-1
+Added Pin To Net: NetName=+3.3V Pin=JP?-4
+Added Pin To Net: NetName=+3.3V Pin=JP?-6
+Added Pin To Net: NetName=+3.3V Pin=U?-16
+Added Net: Name=+3.3V
+Added Pin To Net: NetName=+5V Pin=J?-1
+Added Pin To Net: NetName=+5V Pin=J?-A4B9
+Added Pin To Net: NetName=+5V Pin=J?-B4A9
+Added Net: Name=+5V
+Added Pin To Net: NetName=+12V Pin=U?-7
+Added Pin To Net: NetName=+12V Pin=U?-7
+Added Net: Name=+12V
+Added Net: Name=BOOT1
+Added Pin To Net: NetName=D+ Pin=J?-A6
+Added Pin To Net: NetName=D+ Pin=J?-B6
+Added Net: Name=D+
+Added Pin To Net: NetName=D- Pin=J?-A7
+Added Pin To Net: NetName=D- Pin=J?-B7
+Added Net: Name=D-
+Added Pin To Net: NetName=GND Pin=H?-3
+Added Pin To Net: NetName=GND Pin=J?-4
+Added Pin To Net: NetName=GND Pin=J?-A1B12
+Added Pin To Net: NetName=GND Pin=J?-B1A12
+Added Pin To Net: NetName=GND Pin=J?-SH
+Added Pin To Net: NetName=GND Pin=J?-SH
+Added Pin To Net: NetName=GND Pin=J?-SH
+Added Pin To Net: NetName=GND Pin=J?-SH
+Added Pin To Net: NetName=GND Pin=J?-SH
+Added Pin To Net: NetName=GND Pin=J?-SH
+Added Pin To Net: NetName=GND Pin=JP?-1
+Added Pin To Net: NetName=GND Pin=JP?-3
+Added Pin To Net: NetName=GND Pin=JP?-4
+Added Pin To Net: NetName=GND Pin=SW?-1
+Added Pin To Net: NetName=GND Pin=U?-6
+Added Pin To Net: NetName=GND Pin=U?-6
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-15
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC?_1 Pin=U?-4
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=U?-1
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetD?_A Pin=F?-2
+Added Net: Name=NetD?_A
+Added Pin To Net: NetName=NetF?_1 Pin=F?-1
+Added Net: Name=NetF?_1
+Added Pin To Net: NetName=NetH?_1 Pin=H?-1
+Added Pin To Net: NetName=NetH?_1 Pin=U?-8
+Added Net: Name=NetH?_1
+Added Pin To Net: NetName=NetH?_2 Pin=H?-2
+Added Pin To Net: NetName=NetH?_2 Pin=U?-7
+Added Net: Name=NetH?_2
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-2
+Added Net: Name=NetJ?_2
+Added Pin To Net: NetName=NetJ?_3 Pin=J?-3
+Added Net: Name=NetJ?_3
+Added Pin To Net: NetName=NetJ?_A5 Pin=J?-A5
+Added Net: Name=NetJ?_A5
+Added Pin To Net: NetName=NetJ?_B5 Pin=J?-B5
+Added Net: Name=NetJ?_B5
+Added Pin To Net: NetName=NetJP?_2 Pin=JP?-2
+Added Net: Name=NetJP?_2
+Added Pin To Net: NetName=NetJP?_5 Pin=JP?-5
+Added Net: Name=NetJP?_5
+Added Net: Name=NetL?_1
+Added Pin To Net: NetName=NetR?_1 Pin=U?-4
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=OSCOUT Pin=Y?-1
+Added Net: Name=OSCOUT
+Added Net: Name=PA11
+Added Net: Name=PA12
+Added Net: Name=PC13
+Added Pin To Net: NetName=RESET Pin=SW?-2
+Added Net: Name=RESET
+Added Pin To Net: NetName=STM_RX Pin=U?-9
+Added Net: Name=STM_RX
+Added Pin To Net: NetName=STM_TX Pin=U?-10
+Added Net: Name=STM_TX
+Added Pin To Net: NetName=SWDIO Pin=JP?-3
+Added Net: Name=SWDIO
+Added Member To Class: ClassName=Sheet1 Member=Component F? 2A 24V
+Added Member To Class: ClassName=Sheet1 Member=Component H?
+Added Member To Class: ClassName=Sheet1 Member=Component J? USB
+Added Member To Class: ClassName=Sheet1 Member=Component J? TYPE-C-31-M-12
+Added Member To Class: ClassName=Sheet1 Member=Component J? 78646-3001
+Added Member To Class: ClassName=Sheet1 Member=Component JP? JP 2x3 2.54
+Added Member To Class: ClassName=Sheet1 Member=Component JP? JP 1x4 2.54
+Added Member To Class: ClassName=Sheet1 Member=Component SW? DTSM-3
+Added Member To Class: ClassName=Sheet1 Member=Component U? ESP32-S3-WROOM-1-N4
+Added Member To Class: ClassName=Sheet1 Member=Component U? MAX3232
+Added Member To Class: ClassName=Sheet1 Member=Component u? tps5430-DIS
+Added Member To Class: ClassName=Sheet1 Member=Component U? STM32F103C8T6-LQFP48
+Added Member To Class: ClassName=Sheet1 Member=Component Y? 16Mhz

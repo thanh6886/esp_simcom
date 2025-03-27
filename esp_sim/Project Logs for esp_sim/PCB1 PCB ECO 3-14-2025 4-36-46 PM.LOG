@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=NetR?_1 Pin=U?-4
+Removed Pin From Net: NetName=GND Pin=U?-6
+Removed Pin From Net: NetName=+12V Pin=U?-7
+Removed Pin From Net: NetName=NetC?_1 Pin=U?-8
+Removed Pin From Net: NetName=GND Pin=U?-9
+Change Component Footprint: Designator=LCD? Old Footprint=LCD TFT 3.2" New Footprint=LCD TFT 2.2"
+Change Component Comment : Designator=LCD? Old Comment=LCD TFT 3.2" New Comment=LCD TFT 2.2"
+Added Pin To Net: NetName=NetR?_1 Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-6
+Added Pin To Net: NetName=GND Pin=U?-6
+Added Pin To Net: NetName=+12V Pin=U?-7
+Added Pin To Net: NetName=+12V Pin=U?-7
+Added Pin To Net: NetName=NetH?_2 Pin=U?-7
+Added Pin To Net: NetName=NetC?_1 Pin=U?-8
+Added Pin To Net: NetName=NetH?_1 Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=STM_RX Pin=U?-9
+Added Member To Class: ClassName=Sheet1 Member=Component J? TYPE-C-31-M-12
+Added Member To Class: ClassName=Sheet1 Member=Component J? USB
+Added Member To Class: ClassName=Sheet1 Member=Component JP? JP 2x3 2.54
+Added Member To Class: ClassName=Sheet1 Member=Component U? ESP32-S3-WROOM-1-N4
+Added Member To Class: ClassName=Sheet1 Member=Component U? STM32F103C8T6-LQFP48
+Added Member To Class: ClassName=Sheet1 Member=Component u? tps5430-DIS
+Added Member To Class: ClassName=Sheet1 Member=Component U? MAX3232

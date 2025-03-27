@@ -1,0 +1,104 @@
+Removed Pin From Net: NetName=NetQ?_1 Pin=Q?-1
+Removed Pin From Net: NetName=NetQ?_1 Pin=R?-1
+Removed Pin From Net: NetName=NetQ?_3 Pin=R?-1
+Removed Pin From Net: NetName=SIM-LIGHT Pin=R?-2
+Removed Pin From Net: NetName=NetR?_1 Pin=U?-4
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=1.8V Pin=R?-1
+Added Pin To Net: NetName=+5V Pin=R?-1
+Added Pin To Net: NetName=BOOT1 Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=Net*_17 Pin=R?-1
+Added Pin To Net: NetName=Net*_18 Pin=R?-1
+Added Pin To Net: NetName=Net*_19 Pin=R?-1
+Added Pin To Net: NetName=Net*_59 Pin=R?-1
+Added Pin To Net: NetName=Net*_85 Pin=R?-1
+Added Pin To Net: NetName=NetC?_2 Pin=R?-1
+Added Pin To Net: NetName=NetJ?_2 Pin=R?-1
+Added Pin To Net: NetName=NetJ?_3 Pin=R?-1
+Added Pin To Net: NetName=NetJP?_2 Pin=R?-1
+Added Pin To Net: NetName=NetL?_1 Pin=R?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=R?-1
+Added Pin To Net: NetName=NetQ?_3 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=RESET Pin=R?-1
+Added Pin To Net: NetName=+3.3V Pin=R?-2
+Added Pin To Net: NetName=+3.3V Pin=R?-2
+Added Pin To Net: NetName=+3.3V Pin=R?-2
+Added Pin To Net: NetName=+3.3V Pin=R?-2
+Added Pin To Net: NetName=+3.3V Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=Net*_4 Pin=R?-2
+Added Pin To Net: NetName=NetJ?_A5 Pin=R?-2
+Added Pin To Net: NetName=NetJ?_B5 Pin=R?-2
+Added Pin To Net: NetName=NetJ?_C2 Pin=R?-2
+Added Pin To Net: NetName=NetJP?_5 Pin=R?-2
+Added Pin To Net: NetName=NetL?_2 Pin=R?-2
+Added Pin To Net: NetName=NetQ?_1 Pin=R?-2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=OSCOUT Pin=R?-2
+Added Pin To Net: NetName=PA11 Pin=R?-2
+Added Pin To Net: NetName=PA12 Pin=R?-2
+Added Pin To Net: NetName=PA12 Pin=R?-2
+Added Pin To Net: NetName=SIM-LIGHT Pin=R?-2
+Added Pin To Net: NetName=NetR?_1 Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-6
+Added Pin To Net: NetName=GND Pin=U?-6
+Added Pin To Net: NetName=+12V Pin=U?-7
+Added Pin To Net: NetName=+12V Pin=U?-7
+Added Pin To Net: NetName=NetC?_1 Pin=U?-8
+Added Pin To Net: NetName=NetR1_1 Pin=R?-2
+Added Pin To Net: NetName=NetR1_1 Pin=U?-4
+Added Net: Name=NetR1_1
+Added Member To Class: ClassName=Sheet1 Member=Component * SIM760x
+Added Member To Class: ClassName=Sheet1 Member=Component * ANT
+Added Member To Class: ClassName=Sheet1 Member=Component * TPD4E001
+Added Member To Class: ClassName=Sheet1 Member=Component * IND-0805
+Added Member To Class: ClassName=Sheet1 Member=Component J? USB
+Added Member To Class: ClassName=Sheet1 Member=Component J? TYPE-C-31-M-12
+Added Member To Class: ClassName=Sheet1 Member=Component J? 93463-5206
+Added Member To Class: ClassName=Sheet1 Member=Component J? 78646-3001
+Added Member To Class: ClassName=Sheet1 Member=Component JP? JP 2x3 2.54
+Added Member To Class: ClassName=Sheet1 Member=Component Q? NPN-SOT23
+Added Member To Class: ClassName=Sheet1 Member=Component Q? NPN-SOT23
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R? R0805
+Added Member To Class: ClassName=Sheet1 Member=Component R? 5.9k
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R? 5.9k
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10k
+Added Member To Class: ClassName=Sheet1 Member=Component U? STM32F103C8T6-LQFP48
+Added Member To Class: ClassName=Sheet1 Member=Component U? TXB0102DCUR
+Added Member To Class: ClassName=Sheet1 Member=Component U? MAX3232
+Added Member To Class: ClassName=Sheet1 Member=Component u? tps5430-DIS
+Added Member To Class: ClassName=Sheet1 Member=Component U? ESP32-S3-WROOM-1-N4
+Added Member To Class: ClassName=Sheet1 Member=Component Z? Diode  Zener
